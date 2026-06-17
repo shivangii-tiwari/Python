@@ -31,7 +31,7 @@ import math
 print(math.ceil(4.7))
 print(math.floor(4.8))
 print(math.pow(2,3))
-print(math.factorial(5))
+print(math.factorial(5))~~~`~~`
 print(math.isqrt(726))
 print(math.sqrt(726))
 print(math.sqrt(144))
