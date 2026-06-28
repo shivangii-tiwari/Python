@@ -228,7 +228,7 @@ obj.J()
 obj2.K()
 # hybrid inheritance
 # combination of more than one or two or more type of inheritance
-# H.W: debug the code given by sir and remember it and also explore class and djngo
+# H.W: debug the code given by sir and remember it and also explore flask and djngo
 
 
 
